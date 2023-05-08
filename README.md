@@ -17,7 +17,7 @@ Let the scrum master know if you would like to make changes to the site/template
 
 ## Keen on adding CSS?
 
-Let the scrum master know! styles.css could potensially be a very sought after file for making changes, so should communicate well in order not to get merge conflicts.
+Let the scrum master know! styles.css could potensially be a very sought after file for making changes, so we should communicate well in order not to get merge conflicts.
 
 ## Questions?
 
