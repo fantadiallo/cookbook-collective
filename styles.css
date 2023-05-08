@@ -53,6 +53,7 @@ p {
     font-size: 1.05rem;
     border: none;
     border-bottom: 3px solid var(--clr-accent);
+    z-index: 1;
 }
 
 .navbar ul {
