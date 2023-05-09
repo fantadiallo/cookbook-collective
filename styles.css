@@ -208,7 +208,26 @@ p {
     object-fit: cover;
     object-position: center;
 }
+    /* These "up" classes are for pictures under 600px width */
+.tile-cover-up {
+    height: 15rem;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    border-radius: 4px 4px 0 0;
+}
 
+.tile-cover-up img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 110%;
+    object-fit: cover;
+    object-position: center;
+}
+
+   
 
 .tile-link {
     margin-top: auto;
