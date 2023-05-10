@@ -327,6 +327,11 @@ p {
     text-align: center;
 }
 
+.recipe-directions-image {
+    max-width: 94%;
+    margin: 20px auto;
+}
+
 .recipe-main {
     padding: 2rem;
     justify-content: left;
