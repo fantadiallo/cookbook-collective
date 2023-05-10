@@ -182,7 +182,10 @@ p {
 }
 
 .tile-main {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
     padding: 1rem;
+    height: 100%;
 }
 
 .tile-top {
