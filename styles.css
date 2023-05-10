@@ -275,6 +275,12 @@ p {
     color: var(--clr-900);
 }
 
+.recipe-wrap img {
+    max-width: 80%;
+    margin: 20px auto;
+    
+}
+
 .recipe-author {
     display: flex;
     justify-content: center;
@@ -284,8 +290,13 @@ p {
 .recipe-author p {
     margin-left: 1rem;
     font-style: italic;
-    font-size: .75rem; 
+    font-size: .75rem;
     text-align: center;
+}
+
+.recipe-author img {
+    max-width: 40px;
+    border-radius: 50%;
 }
 
 .recipe-main {
